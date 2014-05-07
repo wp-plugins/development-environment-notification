@@ -17,8 +17,6 @@ This plugin adds a simple noticiation on the WP Admin bar to help the developer 
 This plugin adds a simple noticiation on the WP Admin bar to help the developer know if they are looking at development or production environments without needing to check host files and so on. 
 
 
-![](http://plugins.svn.wordpress.org/development-environment-notification/trunk/screenshot-1.png)
-
 
 == Installation ==
 
@@ -36,6 +34,10 @@ An answer to that question.
 = What about foo bar? =
 
 Answer to foo bar dilemma.
+
+== Screenshots ==
+
+1. Example of what the notification looks like in the admin bar.
 
 
 == Changelog ==
