@@ -1,6 +1,6 @@
 === Development Environment Notification ===
 Contributors: alexphelps3
-Donate link: http://www.alexphelps.me/
+Donate link: https://goo.gl/BeyOdv
 Tags: development, admin bar, development tools
 Requires at least: 0.2
 Tested up to: 3.9
