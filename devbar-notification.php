@@ -6,7 +6,6 @@ Description: A simple plugin to help signify a wordpress environement is develop
 Version: 0.1
 Author: Alex Phelps
 Author Email: alex@alexphelps.me
-  
 */
 
 //if constant is defined, add our style and add our button with wp hooks
@@ -42,7 +41,7 @@ function add_items($admin_bar) {
         'href'  => '#',
         'meta'  => array(
             'title' => __('Development'),
-        'class' => 'dev-mode-notification'    
+        'class' => 'dev-mode-notification'
         ),
     ) );
 }
@@ -51,5 +50,5 @@ function add_items($admin_bar) {
 function dev_notify_login_message() {
     $message = "<p class='message' id='login_error'>Development Environment</p>";
     echo $message;
-    
+
 }
